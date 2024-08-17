@@ -1,0 +1,5 @@
+Hello this is first file.
+This is second line.
+There is an ant in the apple.
+Today is Monday and I'm doing nothing.
+Today is Friday and I'm doing nothing.

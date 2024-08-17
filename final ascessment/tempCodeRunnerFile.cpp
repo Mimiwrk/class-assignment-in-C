@@ -1,0 +1,1 @@
+    // int l = sizeof(LexWordList)/sizeof(LexWordList[0]);
